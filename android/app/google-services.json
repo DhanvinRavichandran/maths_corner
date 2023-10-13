@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57104748972",
+    "project_id": "mathscorner-bee52",
+    "storage_bucket": "mathscorner-bee52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57104748972:android:a50669a64861cd3c5a2a09",
+        "android_client_info": {
+          "package_name": "com.example.maths_corner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57104748972-as0es0j9sd7l3kjcch6gcmemall1s7rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3C7_p2OtQhBnDDTAq5hbiRjzHrMVyJok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57104748972-as0es0j9sd7l3kjcch6gcmemall1s7rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
